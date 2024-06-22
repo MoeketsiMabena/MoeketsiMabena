@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MoeketsiMabena
-- 👀 I’m interested in Front-end Development
+- 👀 I’m interested in WordPress Development
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moeketsi1mabena@gmail.com
 - 😄 Pronouns: Him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a dj on the weekends
 
 <!---
 MoeketsiMabena/MoeketsiMabena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
